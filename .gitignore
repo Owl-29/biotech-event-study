@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.parquet
+*.csv
+*.pkl
+
+# PDF
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.pem
+*.key
+token.json
