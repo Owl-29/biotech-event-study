@@ -183,7 +183,3 @@ biotech-event-study/
 - MacKinlay, A.C. (1997). Event Studies in Economics and Finance. *Journal of Economic Literature*, 35(1), 13–39.
 - Loughran, T. & Ritter, J. (2004). Why Has IPO Underpricing Changed Over Time? *Financial Management*, 33(3), 5–37.
 - Hwang, J. et al. (2013). Quantifying clinical trial success rates and their relationship to stock price reactions. *Journal of Health Economics*.
-
----
-
-*Built as part of a quantitative finance portfolio — demonstrating event study methodology, SEC EDGAR data engineering, and healthcare equity research analysis.*
